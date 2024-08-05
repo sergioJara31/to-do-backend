@@ -34,7 +34,7 @@ Este es un proyecto básico de NestJS. DOnde se realizo una list de tareas que i
 
    URL: 'postgresql://todo_app_owner:8epK6WQlfGCj@ep-nameless-leaf-a5e3ugab.us-east-2.aws.neon.tech/todo_app?sslmode=require'
 
-   
+   RUTA DE PRUEBAS: en la aplicacion esta la lista de rutas que se pueden usar para probar las interacciones con la base de datos.
 
 ## Ejecución del Proyecto
 
